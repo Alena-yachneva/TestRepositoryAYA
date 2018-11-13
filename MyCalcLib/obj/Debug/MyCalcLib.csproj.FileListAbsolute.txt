@@ -1,0 +1,6 @@
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.dll
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.pdb
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.dll
+C:\Users\Alena Yachneva\source\repos\Temp\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.pdb
