@@ -47,8 +47,6 @@ namespace MyCalcLib.Tests
 
             Assert.AreEqual(700, result);
 
-            
-
         }
 
 

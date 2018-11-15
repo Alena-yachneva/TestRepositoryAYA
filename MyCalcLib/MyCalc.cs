@@ -17,5 +17,10 @@ namespace MyCalcLib
         {
             return m / n;
         }
+
+        public int Mult(int k, int t)
+        {
+            return k * t;
+        }
     }
 }
